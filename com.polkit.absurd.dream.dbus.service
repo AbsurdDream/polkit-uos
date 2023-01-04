@@ -1,0 +1,4 @@
+[D-BUS Service]
+User=root
+Name=com.polkit.absurd.dream.dbus
+Exec=/usr/local/absurd-dream/polkit-absurd-dream-server
